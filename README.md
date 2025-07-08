@@ -8,7 +8,7 @@ HEAD
 **Fardis**
 
 - [GitHub Profile](https://github.com/FrednadFari)
-- [LinkedIn Profile](www.linkedin.com/in/fardis-foroughi/)
+- [LinkedIn Profile](www.linkedin.com/in/fardis-foroughi)
 
 ---
 
