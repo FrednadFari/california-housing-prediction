@@ -8,7 +8,7 @@
 **Fardis**
 
 - [GitHub Profile](https://github.com/FrednadFari)
-- [LinkedIn Profile](www.linkedin.com/in/fardis-foroughi-b05a74204)
+- [LinkedIn Profile](www.linkedin.com/in/fardis-foroughi)
 
 ---
 
