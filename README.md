@@ -15,7 +15,7 @@ HEAD
 ## 📄 License
 
 This project is licensed under the MIT License.
-=======
+
 # 🏠 California Housing Price Prediction
 
 This project predicts California housing prices using various regression models including Linear Regression, Random Forest, and XGBoost. It includes both a base model for the entire dataset and city-wise models for the top 10 cities.
